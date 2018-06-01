@@ -68,6 +68,9 @@
     "linux": {
       "artifactName": "${productName}-${version}.${ext}",
       "executableName": "Alva"
+    },
+    "fileAssociations": {
+      "ext": "alva"
     }
   },
   "standard-version": {
